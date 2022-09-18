@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-prototype",
+  "version": "1.0.0",
+  "description": "REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tradinglegendkha/REST-API-prototype.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tradinglegendkha/REST-API-prototype/issues"
+  },
+  "homepage": "https://github.com/tradinglegendkha/REST-API-prototype#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
